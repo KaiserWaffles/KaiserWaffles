@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KaiserWaffles
 - 👀 I’m interested in Data and Biology
-- 🌱 I’m currently learning Cell Biology
-- 💞️ I’m looking to collaborate on my dissertation???  
-
+- 🌱 I’m currently learning Bioinformatics
 
 <!---
 KaiserWaffles/KaiserWaffles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
